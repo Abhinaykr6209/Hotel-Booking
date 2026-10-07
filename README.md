@@ -8,7 +8,6 @@ You need Node.js 18+ and a running PostgreSQL server.
 cd backend
 npm install
 cp .env
-
 npm start
 ```
 Open `.env` and put in your own PostgreSQL password (and change the other values if needed). Then start the server:
@@ -20,5 +19,3 @@ Open `.env` and put in your own PostgreSQL password (and change the other values
 cd frontend
 npm install    
 npm run dev
-
-"# Hotel-Booking" 
